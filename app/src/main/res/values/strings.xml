@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="intro_first_line">The Easy Shopping Solution</string>
+    <string name="into_second_line">Shop is in Your Hand Now !!!</string>
+    <string name="btn_login">User Login Here</string>
+    <string name="btn_user_signup">New User ? Register Here</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="user_login">USER LOGIN</string>
+    <string name="registration_message">new user registration</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email_address">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="contact_number">Phone</string>
+    <string name="btn_register">Register</string>
+    <string name="popular_products">Popular Products</string>
+    <string name="browse_category">Browse Category</string>
+</resources>
